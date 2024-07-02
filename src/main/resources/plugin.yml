@@ -1,0 +1,7 @@
+name: QuitKiller
+version: '${version}'
+main: io.github.minus1over12.quitkiller.QuitKiller
+api-version: '1.21'
+load: STARTUP
+author: War Pigeon
+description: Kills players on quit if they have a killer
